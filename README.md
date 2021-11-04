@@ -1,11 +1,11 @@
-<h1 align="center">Hi! 👋 I'm Velgrynd</h1>
+<h1 align="center">Hi! 👋 I'm Ichika</h1>
 
 <p align="center">
-  <a href="https://t.me/ultimareall"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Noob+Coder+From+Indonesia.;Html%2C+Css%2C+Javascript.;Love+Money+and+Life+is+Needed." alt="Vel (≧ ∇ ≦)">
+  <a href="https://t.me/ultimareall"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Noob+Coder+From+Indonesia.;Html%2C+Css%2C+Javascript.;Love+Money+and+Life+is+Needed." alt="Ichika (≧ ∇ ≦)">
 </p>
 
 <p align="center">
-  <a href="https://t.me/ultimareall"><img src="https://github.com/CyberID-Ltd/zYxDevs-Profile-Requirements/blob/main/computer-programming-anime-programming-language-thread-animation-gril-f6c2888a88588db1f063bcfcbc84e6cf.png" alt="Velgrynd"></a>
+  <a href="https://t.me/ultimareall"><img src="https://telegra.ph/file/98f9c3d76cd4975de9db4.jpg" alt="Velgrynd"></a>
 </p>
 
 <p align="left">
