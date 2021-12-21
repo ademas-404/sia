@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/ultimareall"><img src="https://telegra.ph/file/98f9c3d76cd4975de9db4.jpg" alt="Velgrynd"></a>
+  <a href="https://t.me/ultimareall"><img src="https://telegra.ph/file/675c601a506fa8bfa107e.jpg" alt="Velgrynd"></a>
 </p>
 
 <p align="left">
